@@ -1,0 +1,14 @@
+body{
+    font-family: Calibri;
+    background-color: azure;
+}
+h1{
+    text-align: center;
+    color: black;
+}
+.abc{
+    text-align: center;
+}
+p{
+    font-size: 16px;
+}
